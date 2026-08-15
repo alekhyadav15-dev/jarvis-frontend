@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-jarvis-bg: #0d1117;
+  --color-jarvis-panel: #161b22;
+  --color-jarvis-border: #2d333b;
+  --color-jarvis-accent: #58a6ff;
+  --color-jarvis-purple: #bc8cff;
+  --color-jarvis-green: #3fb950;
+}
+
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  font-family: system-ui, -apple-system, sans-serif;
+}
